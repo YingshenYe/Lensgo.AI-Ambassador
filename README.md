@@ -3,6 +3,7 @@
 This project showcases a multi-stage marketing campaign designed to drive user engagement through a combination of **competition content**, **UGC inspiration**, and a **three-phase email marketing workflow**.
 
 Lensgo.AI Ambassador consists of five core components:
+[LensGo Ambassador 1 2.pdf](https://github.com/user-attachments/files/23363093/LensGo.Ambassador.1.2.pdf)
 
 ###  1. Competition Details  
 A complete overview of the contest, including rules, deadlines, judging criteria, rewards, and participation guidelines.  
