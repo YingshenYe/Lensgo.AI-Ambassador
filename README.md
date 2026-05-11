@@ -6,7 +6,7 @@ I owned the initiative end-to-end: **consumer insights → segmentation → camp
 
 The campaign achieved:
 
--  **2.25M+ impressions**
+-  **4M+ impressions**
 -  **Daily Active Users +9%**
 -  **Payment Volume +5%**
 -  One of the top-performing community-driven growth initiatives of the cycle
