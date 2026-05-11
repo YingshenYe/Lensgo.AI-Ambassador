@@ -1,4 +1,4 @@
-# 🌟 Lensgo.AI Ambassador Campaign
+#  Lensgo.AI Ambassador Campaign
 
 A multi-stage, full-funnel marketing campaign designed to drive user participation, inspire creation, and boost overall platform engagement.
 
@@ -13,7 +13,7 @@ The campaign achieved:
 
 ---
 
-## 📄 Campaign Materials
+##  Campaign Materials
 ### Campaign Pages
 [LensGo Ambassador 1 2.pdf](https://github.com/user-attachments/files/23363093/LensGo.Ambassador.1.2.pdf)
 [LensGo Ambassador 3.pdf](https://github.com/user-attachments/files/23363121/LensGo.Ambassador.3.pdf)
@@ -23,7 +23,7 @@ The campaign achieved:
 [reminder.pdf](https://github.com/user-attachments/files/23363131/reminder.pdf)
 [finalcall.pdf](https://github.com/user-attachments/files/23363129/finalcall.pdf)
 
-# 🔎 Campaign Overview
+#  Campaign Overview
 
 The Lensgo.AI Ambassador campaign includes **five core components**, each supporting a different stage of the user journey.
 
@@ -57,7 +57,7 @@ A strong CTA during the final phase to maximize submissions:
 
 ---
 
-# 🎯 Campaign Objective
+#  Campaign Objective
 
 A **full-funnel lifecycle engagement strategy** guiding users through:
 
@@ -72,7 +72,3 @@ Campaign goals:
 - Deliver a seamless, centralized campaign experience  
 
 ---
-
-# ✅ Summary
-
-This README accompanies a Campaign Viewer that consolidates all five components into one organized page, allowing reviewers to quickly understand the full strategy, creative assets, and impact of the Lensgo.AI Ambassador initiative.
